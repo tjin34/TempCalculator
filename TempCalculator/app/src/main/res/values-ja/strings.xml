@@ -4,5 +4,5 @@
 
     <string name="celsius">摂氏度</string>
     <string name="fahrenheit">華氏度</string>
-    <string name="locale">ja_JP</string>
+    <string name="locale">ja-JP</string>
 </resources>

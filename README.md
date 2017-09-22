@@ -1,3 +1,3 @@
 # Temperature Calcultor
 
-## Language Support: en-US(Default), zh-CN
+## Language Support: en-US(Default), zh-CN, ja-JP
